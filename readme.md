@@ -1,0 +1,1 @@
+#A professional community platform built with Node.js, Express, and MongoDB, enabling users to discover events, join groups, and engage through real-time chat and polls. The application features a modular MVC architecture with integrated wallet and business profile management.

@@ -1,0 +1,11 @@
+{
+  "name": "ello-project",
+  "version": "1.0.0",
+  "description": "A professional community plateform that builds with node js , express with mongo enable user to discover event join group and engage through real time chat . ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mubeen",
+  "license": "ISC"
+}
